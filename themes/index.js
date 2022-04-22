@@ -318,7 +318,7 @@ const themes = {
     text_color: "c5cdd3",
     bg_color: "1b2932",
   },
-  cobalt2: {
+  cobalt2: { 
     title_color: "ffc600",
     icon_color: "ffffff",
     text_color: "0088ff",
